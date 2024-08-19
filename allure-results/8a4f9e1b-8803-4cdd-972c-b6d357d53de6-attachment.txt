@@ -1,0 +1,43 @@
+{
+  "id": {
+    "sessionId": "80cf05c11ab1c5e6edcaca2e572bea30",
+    "elementId": "BAE943ACEA1622015029687CA82138FB_element_17",
+    "element-6066-11e4-a52e-4f735466cecf": "BAE943ACEA1622015029687CA82138FB_element_17",
+    "selector": "//iframe[@id='frame1']",
+    "parent": {
+      "sessionId": "80cf05c11ab1c5e6edcaca2e572bea30",
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "116.0.5845.141",
+        "chrome": {
+          "chromedriverVersion": "116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382})",
+          "userDataDir": "C:\\Users\\SHIVAN~1.VIZ\\AppData\\Local\\Temp\\scoped_dir14288_555960306"
+        },
+        "fedcm:accounts": true,
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:51308"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}
